@@ -16,3 +16,6 @@ function name10 (name) {
 function name10 (name) {
     console.log(`your names ${name}`);
 }
+function name10 (name) {
+    console.log(`your names ${name}`);
+}
