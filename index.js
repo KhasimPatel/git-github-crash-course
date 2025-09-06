@@ -10,3 +10,6 @@ function name (name) {
 function name1 (name) {
     console.log(`your names ${name}`);
 }
+function name10 (name) {
+    console.log(`your names ${name}`);
+}
