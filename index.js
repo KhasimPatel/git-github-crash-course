@@ -1,9 +1,9 @@
 const age = 20;
 
-const name = "Khasim Ilahi Patel";
+const name = "Khasim Patel";
 
 const dob = "01/01/2005";
 
-function isabove18(age) {
-    return age>=18;
+function name (name) {
+    console.log(`your names ${name}`);
 }
